@@ -28,8 +28,5 @@
 *.out
 *.app
 
-*.sdf
-*.suo
-*.sln
-*.opensdf
+
 x64/
